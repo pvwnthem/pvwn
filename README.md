@@ -1,5 +1,5 @@
 <h1 align="center">I'm PVWN</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;3%2B+Years+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=7f03fc&vCenter=true&size=22"></a></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;1%2B+Year+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=7f03fc&vCenter=true&size=22"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvwnthem&label=Profile%20views&color=0e75b6&style=flat" alt="pvwnthem" /> </p>
 
