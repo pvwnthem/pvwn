@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvwnthem" alt="pvwnthem" /></a> </p>
 
-- 🔭 I’m currently working on **typescript-express-forum**
+- 🔭 I’m currently working on **various typescript and python projects**
 
 - 🌱 I’m currently learning **C#, Next.js, React, NodeJs, TypeScript**
 
