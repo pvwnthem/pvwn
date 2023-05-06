@@ -1,5 +1,5 @@
 <h1 align="center">I'm PVWN</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;1%2B+Year+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=7f03fc&vCenter=true&size=22"></a></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;2%2B+Year+of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=7f03fc&vCenter=true&size=22"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvwnthem&label=Profile%20views&color=0e75b6&style=flat" alt="pvwnthem" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **various typescript and python projects**
 
-- 🌱 I’m currently learning **C#, Next.js, React, NodeJs, TypeScript**
+- 🌱 I’m currently learning **C#, GoLang, **
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 👨‍💻 All of my projects are available at [https://pvwn.xyz](https://pvwn.xyz)
+- 👨‍💻 All of my projects are available at [https://2x1.dev](https://2x1.dev)
 
-- 💬 Ask me about **NodeJS, ExpressJS**
+- 💬 Ask me about **Typescript, NextJS**
 
-- 📫 How to reach me **pvwn.them@gmail.com**
+- 📫 How to reach me **torben@2x1.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
