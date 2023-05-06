@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **various typescript and python projects**
 
-- 🌱 I’m currently learning **C#, GoLang **
+- 🌱 I’m currently learning **C#, GoLang**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
